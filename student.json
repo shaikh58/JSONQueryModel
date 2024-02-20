@@ -1,0 +1,15 @@
+{
+  "course": "ECE141a",
+  "term"  : "WI24",
+  "assignment"         : 2,
+  "due_date_6"         : "Jan. 29, 11:30p",
+  "total_effort_hours" : 0,
+  "students": [
+    {
+      "name " : "Your Name",
+      "pid"   : "Your StudentId",
+      "email" : "Your Email",
+      "os"    : "windows|mac|linux"
+    }
+  ]
+}
